@@ -13,5 +13,5 @@ ribs
 pulled pork
 hamburger
 cavity
-awake
 drowsy
+awake
